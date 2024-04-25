@@ -1,2 +1,2 @@
 # ravensword2
-this is literally an experience c++ which is on developing (maybe never develop again because I have no clue)
+this is literally just a test for me about read and write memory process
